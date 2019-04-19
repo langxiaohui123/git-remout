@@ -1,6 +1,10 @@
 测试rebase cherry-pick
 第一次测试rebasesd
 第二次 cherry-pick
+<<<<<<< HEAD
 第三次 测试dev
    第一次测试dev2
    
+=======
+测试第一次dev2的cherry-pick
+>>>>>>> b7ef582... 'masterdev2准备'
