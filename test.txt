@@ -2,8 +2,10 @@
 测试rebase cherry-pick
 第一次测试rebasesd
 第二次 cherry-pick
+<<<<<<< HEAD
 测试第一次dev2的cherry-pic
      mster的变革
      测试合并到merge
    pull dev dev
+第三次 测试dev
 
